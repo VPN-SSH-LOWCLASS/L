@@ -1,0 +1,8 @@
+export api="patkC5POJ5cyvvQqV.4357943872c1c3c66be94324e84faa5139e67204305ab1b35bf9233cdf36c743"
+export base='applq2Mz1wiOb2hfG'
+export table="kuy"
+export folder="tmp"
+[[ "${#BASH_SOURCE[@]}" -gt "1" ]] && { return 0; }
+
+
+
